@@ -1,0 +1,79 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body , html{
+
+min-height: 100%;
+	height: 100%;
+}
+
+
+
+
+
+div.box{
+  background-color: #f2f2f2;
+	padding: 40px 100px 40px 100px;
+	width: 250px;
+	    margin: auto;
+ 
+    border-radius: 5px;
+        margin-top: 100px
+
+}
+
+
+
+input[type=submit] {
+    width: 300px;
+    background-color: #a7e5e7;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    height: 60px;
+}
+input[type=submit]:hover {
+    background-color: #a7e5c8;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+text-align: right;
+}
+
+input[type=Password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+text-align: right;
+}
+h1{
+	float: right;
+	margin-top: -50px;
+	padding: 12px 100px 40px 100px;
+}
+p{
+
+	font-size: 13px;
+	float: right;
+}
+.subscribe {
+    position: relative;
+    right: 20px;
+}
+
+

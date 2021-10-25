@@ -1,0 +1,161 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body , html{
+
+min-height: 100%;
+	height: 100%;
+}
+
+header {
+    height: 215px;
+    width: 100%;
+    background-color: white;
+}
+
+main {
+    min-height: 500px;
+    width: 100%;
+    
+}
+
+footer {
+    width: 100%;
+    min-height: 100px;
+    background-color: red;
+}
+
+.top-topr {
+    width: 100%;
+    height: 50px;
+    background-color: yellow;
+}
+
+
+.top-middle {
+    background-color: green;
+    width: 100%;
+    height: 200px;
+}
+ 
+
+
+
+p {
+    font-size: 90%;
+    text-align: left;
+
+}
+div.sign-in a{
+   color: black;
+    position: relative;
+    right: -1140px;
+    top: -25px;
+     font-weight: bold;
+     font-size: 15px;
+
+}
+pre{
+    
+    color: black;
+    font-size: 30px;
+font-family: 'Bowlby One', cursive;
+font-size: 70px;
+text-align: center;
+    margin: 5px 100px 80px 100px;
+}
+.logo {
+    width: 50%;
+        padding: 10px 50px 25px 50px;
+ margin: auto;
+ margin-top: -30px;
+
+}
+span{
+font-size: 30px;
+color: black;
+position: relative;
+top: -106px;
+left: -13px;
+}
+
+div.bagMarket a img{
+width: 50px;
+height: 50px;
+
+
+
+}
+.bagMarket {
+    margin-top: -46%;
+  margin-left: 30px;
+        padding: 70px;
+}
+
+div.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #efefef;
+    margin-top: -40px;
+    padding-right: 27px;
+}
+
+div.navbar li {
+    float: right;
+
+}
+
+div.navbar li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 19px 16px;
+    text-decoration: none;
+
+}
+
+div.navbar li a:hover {
+    text-decoration: underline;
+}
+
+
+
+input[type=text]:focus{
+    width: 20%;
+ border: 1px solid #ccc;
+}
+div.search {
+    margin-top: -40px;
+    padding-left: 10px;
+}
+
+
+input[type=text] {
+    width: 200px;
+    box-sizing: border-box;
+    border: none;
+    font-size: 12px;
+    background-color: white;
+    outline: none;
+    padding: 9px 20px 9px 40px;
+    -webkit-transition: width 0.4s;
+    transition: width 0.4s;
+    outline: none;
+}
+
+
+
+
+.pic-search {
+    margin-top: -30px;
+    margin-left: 10px;
+}
+.pic-search img {
+    width: 2%;
+    height: 2%;
+}
+
+
